@@ -1,12 +1,16 @@
-### Hi, I'm João Brasil!
+# Hi, I'm João Brasil! 👋
 
 <img align="Right" height="350em" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/octacat.png"/>
 
-- ⌛ Age: 18yo
-- 🌎 Nationality: Brazilian 
-- 📚 Currently learning: Java and C
-- 📧 Contact me: contatojoaobrasil23@gmail.com 
-- 👨‍💻 Pronouns: He/Him
+About me:
+
+Passionate about Technology and development, I'm graduating in the area. Games, codes, different languages ​​and learning and growth opportunities.
+
+- ⌛ Age: 18 yo
+    - 🌎 Nationality: Brazilian 
+        - 📚 Currently learning: <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> and <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+            - 📧 Contact me: contatojoaobrasil23@gmail.com 
+                - 👨‍💻 Pronouns: He/Him
 
 <div>
 <a href="https://linktr.ee/JoaoBrasil">
@@ -25,11 +29,11 @@
   ### Social Media:
 
   <div>
-    <a href="https://www.instagram.com/akabrasil_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"_blank"></a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-brasil-3580b8268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
-    <a href="https://open.spotify.com/user/joaopedrobra" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target"_blank"></a>
-    <a href="https://steamcommunity.com/id/ra1dbr/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target"_blank"></a>
-    <a href="mailto:contatojoaobrasil23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank"></a>
+    <a href="https://www.instagram.com/akabrasil_/" target="_blank"><img src="https://github.com/cszach/cszach/blob/master/img/icons/instagram.png" target"_blank" height="40" width="40"></a>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-brasil-3580b8268/" target="_blank"><img src="https://github.com/cszach/cszach/blob/master/img/icons/linkedin.png" target"_blank" height="40" width="40"></a>
+    <a href="https://open.spotify.com/user/joaopedrobra" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1024px-Spotify_App_Logo.svg.png" target"_blank" height="40" width="40"></a>
+    <a href="https://steamcommunity.com/id/ra1dbr/" target="_blank"><img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-white.png"_blank" height="40" width="40></a>
+    <a href="mailto:contatojoaobrasil23@gmail.com" target="_blank"><img src="https://github.com/cszach/cszach/blob/master/img/icons/gmail.png" target"_blank" height="40" width="40"></a>
   </div>
 
   ##
