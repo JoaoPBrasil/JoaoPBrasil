@@ -2,6 +2,8 @@
 
 <img align="Right" height="350em" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/octacat.png"/>
 
+- ⌛ Age: 18yo
+- 🌎 Nationality: Brazilian 
 - 📚 Currently learning: Java and C
 - 📧 Contact me: contatojoaobrasil23@gmail.com 
 - 👨‍💻 Pronouns: He/Him
@@ -31,8 +33,3 @@
   </div>
 
   ##
-
-  <div>
-      <img align="center" alt="gif" height="175" width="675" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/teste.gif"/>
-    
-  </div>
