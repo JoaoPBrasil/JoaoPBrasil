@@ -33,6 +33,6 @@
   ##
 
   <div>
-      <img align="center" alt="gif" height="250" width="700" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/teste.gif"/>
+      <img align="center" alt="gif" height="175" width="675" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/teste.gif"/>
     
   </div>
