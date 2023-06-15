@@ -1,6 +1,6 @@
 ### Hi, I'm João Brasil!
 
-<img align="Right" height="450em" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/octacat.png"/>
+<img align="Right" height="350em" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/octacat.png"/>
 
 - 📚 Currently learning: Java and C
 - 📧 Contact me: contatojoaobrasil23@gmail.com 
