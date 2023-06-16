@@ -37,3 +37,9 @@ Passionate about Technology and development, I'm graduating in the area. Games, 
   </div>
 
   ##
+
+  “The function of a good software is to make the complex appear to be simple.” – Grady Booch
+<div>
+    <img height="293" width="522" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/gamer.gif">
+</div>
+  
