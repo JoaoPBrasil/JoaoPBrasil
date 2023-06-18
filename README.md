@@ -15,7 +15,7 @@ Passionate about Technology and development, I'm graduating in the area. Games, 
 <div>
 <a href="https://linktr.ee/JoaoBrasil">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPBrasil&layout=compact&langs_count=16&theme=radical"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoPBrasil&show_icons=true&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoPBrasil&show_icons=true&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
