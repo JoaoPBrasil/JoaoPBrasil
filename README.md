@@ -32,7 +32,7 @@ Passionate about Technology and development, I'm graduating in the area. Games, 
   <div>
     <a href="https://www.instagram.com/akabrasil_/" target="_blank"><img src="https://github.com/cszach/cszach/blob/master/img/icons/instagram.png" target"_blank" height="40" width="40"></a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-brasil-3580b8268/" target="_blank"><img src="https://github.com/cszach/cszach/blob/master/img/icons/linkedin.png" target"_blank" height="40" width="40"></a>
-    <a href="https://open.spotify.com/user/joaopedrobra" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1024px-Spotify_App_Logo.svg.png" target"_blank" height="40" width="40"></a>
+    <a href="https://open.spotify.com/user/joaopedrobra" target="_blank"><img src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/spotify-logo-png-7053.png"_blank" height="40" width="40"></a>
     <a href="https://steamcommunity.com/id/ra1dbr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" height="40" width="40></a>
     <a href="mailto:contatojoaobrasil23@gmail.com" target="_blank"><img src="https://github.com/cszach/cszach/blob/master/img/icons/gmail.png" target"_blank" height="40" width="40"></a>
   </div>
