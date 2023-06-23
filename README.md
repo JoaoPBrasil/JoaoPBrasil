@@ -1,4 +1,5 @@
-# Hi, I'm João Brasil! 👋
+# Hi, I'm João Brasil! 
+<img align="Right" alt="java" height="150" width="150" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/Lakers3.png">
 
 <img align="Right" height="350em" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/octacat.png"/>
 
