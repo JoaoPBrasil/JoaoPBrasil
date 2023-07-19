@@ -1,6 +1,4 @@
 # Hi, I'm João Brasil! 
-<img align="Right" alt="java" height="150" width="150" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/Lakers3.png">
-
 <img align="Right" height="350em" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/octacat.png"/>
 
 About me:
@@ -43,5 +41,6 @@ Passionate about Technology and development, I'm graduating in the area. Games, 
   “The function of a good software is to make the complex appear to be simple.” – Grady Booch
 <div>
     <img height="293" width="522" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/gamer.gif">
+    <img height="300" width="300" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/Lakers3.png">
 </div>
   
