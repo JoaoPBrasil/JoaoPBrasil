@@ -2,7 +2,7 @@
 
 About me:
 
-Passionate about Technology and development, I'm graduating in the area. Games, codes, different languages ​​and learning and growth opportunities.
+Passionate about Technology and development, I'm graduating in the area. Games, codes, different languages ​​and learning and growth opportunities. Welcome to my Github page!
 
 - ⌛ Age: 18 yo
 - 🌎 Nationality: Brazilian 
