@@ -1,5 +1,4 @@
 # Hi, I'm João Brasil! 
-<img align="Right" height="350em" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/octacat.png"/>
 
 About me:
 
