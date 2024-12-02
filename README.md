@@ -6,7 +6,7 @@ Passionate about Technology and development, I'm graduating in the area. Games, 
 
 - ⌛ Age: 19 yo
 - 🌎 Nationality: Brazilian 
-- 📚 Currently learning: <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> , <img align="center" alt="html5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> ,  <img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> , <img align="center" alt="js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> and <img align="center" alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+- 📚 Currently learning: <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  , <img align="center" alt="js" height="40" width="40" >
 - 📧 Contact me: contatojoaobrasil23@gmail.com 
 - 👨‍💻 Pronouns: He/Him
 
