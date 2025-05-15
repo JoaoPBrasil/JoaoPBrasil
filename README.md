@@ -25,7 +25,6 @@ Passionate about Technology and development, I'm graduating in the area. Games, 
     <img align="center" alt="css" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
   ##
@@ -35,7 +34,7 @@ Passionate about Technology and development, I'm graduating in the area. Games, 
   <div>
     <a href="https://www.instagram.com/akabrasil_/" target="_blank"><img src="https://github.com/cszach/cszach/blob/master/img/icons/instagram.png" target"_blank" height="40" width="40"></a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-brasil-3580b8268/" target="_blank"><img src="https://github.com/cszach/cszach/blob/master/img/icons/linkedin.png" target"_blank" height="40" width="40"></a>
-    <a href="https://open.spotify.com/user/joaopedrobra" target="_blank"><img src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/spotify-logo-png-7053.png"_blank" height="40" width="40"></a>
+    <a href="https://open.spotify.com/user/joaopedrobra" target="_blank"><img src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/spotify-logo-png-7053.png" height="40" width="40"></a>
     <a href="https://steamcommunity.com/id/ra1dbr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" height="40" width="40></a>
     <a href="mailto:contatojoaobrasil23@gmail.com" target="_blank"><img src="https://github.com/cszach/cszach/blob/master/img/icons/gmail.png" target"_blank" height="40" width="40"></a>
   </div>
@@ -45,6 +44,5 @@ Passionate about Technology and development, I'm graduating in the area. Games, 
   “The function of a good software is to make the complex appear to be simple.” – Grady Booch
 <div>
     <img height="293" width="522" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/gamer.gif">
-    <img height="300" width="300" src="https://github.com/JoaoPBrasil/JoaoPBrasil/blob/main/Lakers3.png">
 </div>
   
